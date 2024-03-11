@@ -1,0 +1,8 @@
+package com;
+
+public class mumu {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+
+}
